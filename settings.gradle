@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "NewJickbangCopy_201018"
